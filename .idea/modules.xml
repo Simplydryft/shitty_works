@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.ivd.day01/com.ivd.day01.iml" filepath="$PROJECT_DIR$/com.ivd.day01/com.ivd.day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ivd.day02/com.ivd.day02.iml" filepath="$PROJECT_DIR$/com.ivd.day02/com.ivd.day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ivd.day03/com.ivd.day03.iml" filepath="$PROJECT_DIR$/com.ivd.day03/com.ivd.day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ivd.day04/com.ivd.day04.iml" filepath="$PROJECT_DIR$/com.ivd.day04/com.ivd.day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.ivd.homework/com.ivd.homework.iml" filepath="$PROJECT_DIR$/com.ivd.homework/com.ivd.homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
